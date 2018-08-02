@@ -9,4 +9,3 @@ jobs:
           name: Run Test
           command: |
             python tests/test.py
-            
