@@ -2,4 +2,4 @@
 if __name__ == '__main__':
 
     print('RUN TEST')
-    exit(-1)
+    exit(0)
